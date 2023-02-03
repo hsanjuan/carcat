@@ -1,4 +1,4 @@
-module gitlab.com/hsanjuan/carcat
+module github.com/hsanjuan/carcat
 
 go 1.19
 

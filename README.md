@@ -5,7 +5,7 @@ Concatenate CAR files (v1).
 ## Usage
 
 ```
-go install github.com/hsanjuan/carcat
+go install github.com/hsanjuan/carcat@latest
 carcat file1.car file2.car file3.car ... > merged.car
 ```
 
